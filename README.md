@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
-<h3 align="center">🚀 Future DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 ---
 
@@ -19,10 +19,6 @@
 - ♾️ CI/CD (Jenkins)  
 - ☁️ AWS (Basics)
 
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ItsTechUtsav&show_icons=true&theme=tokyonight)
 
 ---
 
