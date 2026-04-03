@@ -17,7 +17,7 @@
 - 🔧 Git & GitHub  
 - 📦 Docker  
 - ♾️ CI/CD (Jenkins)  
-- ☁️ AWS (Basics)
+- ☁️ AWS 
 
 
 ---
