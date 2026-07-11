@@ -54,9 +54,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsTechUtsav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTechUtsav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ItsTechUtsav&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsTechUtsav&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -86,7 +86,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ItsTechUtsav&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ItsTechUtsav/ItsTechUtsav/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
@@ -130,7 +130,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=ItsTechUtsav&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
