@@ -57,22 +57,6 @@ Current areas of focus include Kubernetes, Infrastructure as Code, CI/CD automat
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 </p>
 
----
-
-
-## 🌐 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/utsav-sharma-93431a2a8" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn"/>
-</a>
-
-<a href="mailto:utsavsh.01@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Email"/>
-</a>
-
-</p>
 
 ---
 
