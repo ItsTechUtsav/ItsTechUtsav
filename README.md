@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Utsav Sharma</h1>
-
-<h3 align="center">
-Cloud & DevOps Engineer | AWS | Kubernetes | Docker | CI/CD
-</h3>
+<h1 align="center">Utsav Sharma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Cloud-Native+Applications;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Infrastructure+Automation;Always+Learning+Through+Projects" />
+Cloud Infrastructure • DevOps • Platform Engineering
 </p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+reliable+cloud+infrastructure;Automating+deployment+workflows" />
+</p>
 
 ## 👨‍💻 About Me
 
