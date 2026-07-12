@@ -20,41 +20,41 @@ Current areas of focus include Kubernetes, Infrastructure as Code, CI/CD automat
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
+### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" title="Bash" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL" alt="MySQL"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" title="Amazon Web Services" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" title="Kubernetes" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" title="Terraform" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" title="Ansible" alt="Ansible"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" title="Jenkins" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" title="Linux" alt="Linux"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" />
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 </p>
 
-### 📊 Monitoring
+### Monitoring
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" title="Prometheus" alt="Prometheus"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" title="Grafana" alt="Grafana"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
 </p>
 
-### 🛠️ Tools
+### Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="Visual Studio Code" alt="VS Code"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" title="Postman" alt="Postman"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 </p>
 
 ---
