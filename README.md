@@ -61,15 +61,6 @@ Current areas of focus include Kubernetes, Infrastructure as Code, CI/CD automat
 
 ---
 
-## 📈 Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTechUtsav&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
