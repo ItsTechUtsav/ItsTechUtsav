@@ -1,45 +1,43 @@
-<h1 align="center">Hi 👋, I'm Utsav</h1>
+<h1 align="center">Hi 👋, I'm Utsav Sharma</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer • Cloud Enthusiast • Automation Learner
+Cloud & DevOps Engineer | AWS | Kubernetes | Docker | CI/CD
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+Progress;Linux+%7C+Docker+%7C+AWS;Automation+%7C+CI%2FCD+%7C+Cloud;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Cloud+Native+Applications;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Infrastructure+Automation;Always+Building+%26+Learning" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Student
-- 🌱 Currently learning **DevOps Engineering**
-- ☁️ Exploring **AWS Cloud**
-- 🐳 Building projects with Docker
-- ⚙️ Learning CI/CD using Jenkins & GitHub Actions
-- 📚 Passionate about Linux & Automation
-- 🎯 Goal: Become a Cloud & DevOps Engineer
+I'm a Computer Science undergraduate focused on Cloud and DevOps.
+
+My work revolves around building cloud-native applications, automating deployments, and deploying scalable infrastructure using AWS and modern DevOps tools.
+
+Currently, I'm working on practical projects involving Kubernetes, Infrastructure as Code, monitoring, and CI/CD workflows.
 
 ---
 
-## 🚀 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash" />
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,mysql" />
 </p>
 
-### DevOps
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,git,github,aws" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,git,github,linux" />
 </p>
 
-### Currently Learning
+### Monitoring
 
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,grafana,prometheus" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
 ### Tools
@@ -50,73 +48,54 @@
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+### 🔹 End-to-End DevOps CI/CD Pipeline
+
+- Dockerized application deployment
+- Kubernetes & Helm
+- GitHub Actions CI/CD
+- Amazon ECR
+- Prometheus & Grafana Monitoring
+
+---
+
+### 🔹 Secure Temporary File Sharing System
+
+- AWS Lambda
+- API Gateway
+- Amazon S3
+- DynamoDB
+- Serverless Architecture
+
+---
+
+### 🔹 Aira.AI
+
+- MERN Stack
+- AI Integration
+- JWT Authentication
+- Dockerized Deployment
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsTechUtsav&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsTechUtsav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTechUtsav&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTechUtsav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ItsTechUtsav&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsTechUtsav&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ItsTechUtsav&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ItsTechUtsav/ItsTechUtsav/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🚀 DevOps Learning Repository
-- ☁️ AWS Hands-on Labs
-- 🐳 Docker Projects
-- ⚙️ Jenkins CI/CD Pipelines
-- 🐧 Linux Practice
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
 
-<a href="https://linkedin.com/in/utsav-sharma-93431a2a8/">
+<a href="https://linkedin.com/in/utsav-sharma-93431a2a8">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -130,8 +109,6 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ItsTechUtsav&label=Profile+Views&color=0e75b6&style=flat"/>
+<i>"Build. Automate. Deploy. Improve."</i>
 
 </p>
-
-> **"Consistency beats talent when talent doesn't stay consistent." 🚀**
